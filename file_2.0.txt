@@ -1,0 +1,1 @@
+Extra line in file2
